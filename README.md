@@ -16,5 +16,4 @@ Pandas generally provide two data structure for manipulating data, They are:
 
 
 
-
-##### Thanks to https://www.geeksforgeeks.org/
+##### Thanks to https://www.geeksforgeeks.org/pandas-tutorial/
