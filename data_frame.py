@@ -99,7 +99,8 @@ data = pd.read_csv("nba.csv")
 print(data.to_string())  # to print the entire data By default, when you print a DataFrame, you will only get the first 5 rows, and the last 5 rows
 print(data.loc[0]) # row 0 will print
 print(data.loc[0: 5]) # row 0 to 5 will print
-print(data.info()) # print the info about data
+print(data.info()) # print the info about enitre data
+print(data.describe())  # print description of enitre data
 print(data["Age"])  # print the "Age" column only
 """
 
