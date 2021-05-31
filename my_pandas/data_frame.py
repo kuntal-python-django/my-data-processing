@@ -1,6 +1,6 @@
 
-import pandas as pd
-import numpy as np
+import pandas as pds
+
 
 """
 data = ['Geeks', 'For', 'Geeks', 'is',  'portal', 'for', 'Geeks']
